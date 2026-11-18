@@ -19,12 +19,13 @@ An independent interactive project exploring psychology, AI, and emotional well-
 <img src="assets/tianyuan-screenshot.png" alt="Tianyuan Xinshi: real project screenshot" width="100%" />
 -->
 
-**[Sheng Guan Tu](https://github.com/luoluo926/sheng-guan-tu)**  
-A web-based board and card game I'm developing, inspired by a traditional Chinese game.
+**[Sheng Guan Tu · Records of Eminent Officials](https://luoluo926.github.io/sheng-guan-tu/)**  
+A web-based board and card game I'm developing, inspired by a traditional Chinese game. Playable in the browser, with separate Chinese and English interfaces.
 
-<!-- To add your actual screenshot later, upload assets/shengguan-screenshot.png and uncomment this line:
-<img src="assets/shengguan-screenshot.png" alt="Sheng Guan Tu: real gameplay screenshot" width="100%" />
--->
+<div align="center">
+  <img src="assets/shengguan-gameplay.png" alt="Sheng Guan Tu: the examination ladder during a play phase" width="49%" />
+  <img src="assets/shengguan-character-select.png" alt="Sheng Guan Tu: character selection in Notables mode" width="49%" />
+</div>
 
 ---
 
