@@ -12,12 +12,13 @@ Consumer behavior &nbsp;·&nbsp; Judgment and decision-making &nbsp;·&nbsp; Hum
 
 ### Selected projects
 
-**Tianyuan Xinshi**  
-An independent interactive project exploring psychology, AI, and emotional well-being.
+**[Tianyuan Xinshi](https://tiany-heart-market.onrender.com/)**  
+An independent interactive project exploring psychology, AI, and emotional well-being, set in a market in old Chang'an where comfort, clarity, fortune and inspiration are traded.
 
-<!-- To add your actual screenshot later, upload assets/tianyuan-screenshot.png and uncomment this line:
-<img src="assets/tianyuan-screenshot.png" alt="Tianyuan Xinshi: real project screenshot" width="100%" />
--->
+<div align="center">
+  <img src="assets/tianyuan-landing.png" alt="Tianyuan Xinshi: landing page" width="49%" />
+  <img src="assets/tianyuan-city.png" alt="Tianyuan Xinshi: the city of Chang'an" width="49%" />
+</div>
 
 **[Sheng Guan Tu · Records of Eminent Officials](https://luoluo926.github.io/sheng-guan-tu/)**  
 A web-based board and card game I'm developing, inspired by a traditional Chinese game. Playable in the browser, with separate Chinese and English interfaces.
